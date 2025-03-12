@@ -1,0 +1,1 @@
+arr=[(first,second) for frist,second in zip(range(100,120,2))]
