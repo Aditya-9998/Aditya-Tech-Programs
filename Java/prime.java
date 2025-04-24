@@ -1,6 +1,7 @@
-// Java Program to demonstrate
-// Brute Force Method
-// to check if a number is prime
+//package Java.Questions.Other;
+
+
+
 class GFG {
 	static boolean isPrime(int n)
 	{
@@ -19,7 +20,7 @@ class GFG {
 	// Driver Program
 	public static void main(String args[])
 	{
-		if (isPrime(13))
+		if (isPrime(10))
 			System.out.println(" true");
 		else
 			System.out.println(" false");

@@ -1,9 +1,8 @@
-# prime in Range
+# prime no in range  1 to 80
+st,en=50,266
 
-st,end=0,50
 prime=[]
-
-for i in range (st,end+1):
+for i in range (st,en+1):   
     c=0
     if i<2:
         continue
@@ -14,7 +13,10 @@ for i in range (st,end+1):
         if i%n==0:
             c=1
             break
+
     if c==0:
         prime.append(i)
-
 print(prime)
+print(len(prime),'count of prime no')
+
+# test cases 59 to 80, 15999 to 16999
