@@ -1,0 +1,22 @@
+# Sab kuch ignore karo Program folder ke andar
+/Program/*
+
+# Lekin in specific folders ko track karo
+!/Program/Python/
+!/Program/Java/
+!/Program/Java Script/
+!/Program/Html/
+!/Program/DSA/
+
+# Kuch system folders ko ignore karo
+/Program/.vscode/
+/Program/node_modules/
+/Program/Dream-Project/
+/Program/Projects/
+
+# Unwanted file types
+*.log
+*.tmp
+*.csv
+*.pyc
+__pycache__/
