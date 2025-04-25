@@ -1,6 +1,6 @@
-"*" 
-"!Python/" 
-"!Java/" 
-"!'Java Script/'" 
-"!Html/" 
-"!DSA/" 
+* 
+!Python/ 
+!Java/ 
+!Html/ 
+!DSA/ 
+!Java\ Script/ 
