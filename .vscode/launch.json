@@ -1,0 +1,143 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "FloydsLoopDetection",
+      "request": "launch",
+      "mainClass": "FloydsLoopDetection",
+      "projectName": "Program_2465739e"
+    },
+    {
+      "type": "java",
+      "name": "AtBegning",
+      "request": "launch",
+      "mainClass": "AtBegning",
+      "projectName": "Program_2465739e"
+    },
+    {
+      "type": "java",
+      "name": "ReverseSubLinked",
+      "request": "launch",
+      "mainClass": "ReverseSubLinked",
+      "projectName": "Program_2465739e"
+    },
+    {
+      "type": "java",
+      "name": "LinkedList",
+      "request": "launch",
+      "mainClass": "LinkedList",
+      "projectName": "Program_2465739e"
+    },
+    {
+      "type": "java",
+      "name": "InsertAtEndAndDel",
+      "request": "launch",
+      "mainClass": "InsertAtEndAndDel",
+      "projectName": "Program_2465739e"
+    },
+    {
+      "type": "java",
+      "name": "InsertAtEndAndDelete",
+      "request": "launch",
+      "mainClass": "InsertAtEndAndDelete",
+      "projectName": "Program_2465739e"
+    },
+    {
+      "type": "java",
+      "name": "InsertAtEnd",
+      "request": "launch",
+      "mainClass": "DSA.Stack.InsertAtEnd",
+      "projectName": "Program_2465739e"
+    },
+    {
+      "type": "java",
+      "name": "InsertAtBeginning",
+      "request": "launch",
+      "mainClass": "InsertAtBeginning",
+      "projectName": "Program_2465739e"
+    },
+    {
+      "type": "java",
+      "name": "Atbeigning",
+      "request": "launch",
+      "mainClass": "DSA.Stack.Atbeigning",
+      "projectName": "Program_2465739e"
+    },
+    {
+      "type": "java",
+      "name": "SinglyLinkedList",
+      "request": "launch",
+      "mainClass": "SinglyLinkedList",
+      "projectName": "Program_2465739e"
+    },
+    {
+      "type": "java",
+      "name": "FactorialExample",
+      "request": "launch",
+      "mainClass": "FactorialExample",
+      "projectName": "Program_2465739e"
+    },
+    {
+      "type": "java",
+      "name": "Fibo",
+      "request": "launch",
+      "mainClass": "Fibo",
+      "projectName": "Program_2465739e"
+    },
+    {
+      "type": "java",
+      "name": "GFG",
+      "request": "launch",
+      "mainClass": "GFG",
+      "projectName": "Program_2465739e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Reverses",
+      "request": "launch",
+      "mainClass": "Reverses",
+      "projectName": "Program_2465739e",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java Program",
+      "request": "launch",
+      "mainClass": "${file}",
+      "projectName": "",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Run Python",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Open HTML in Edge",
+      "type": "pwa-chrome",
+      "request": "launch",
+      "url": "file://${file}",
+      "webRoot": "${workspaceFolder}",
+      "runtimeExecutable": "msedge"
+    },
+    {
+      "name": "Open HTML in Brave",
+      "type": "pwa-chrome",
+      "request": "launch",
+      "url": "file://${file}",
+      "webRoot": "${workspaceFolder}",
+      "runtimeExecutable": "brave"
+    },
+    {
+      "name": "Open HTML in Firefox",
+      "type": "firefox",
+      "request": "launch",
+      "url": "file://${file}",
+      "webRoot": "${workspaceFolder}",
+      "runtimeExecutable": "firefox"
+    }
+  ]
+}
