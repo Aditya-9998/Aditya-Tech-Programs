@@ -1,6 +1,17 @@
-* 
-!Python/ 
-!Java/ 
-!Html/ 
-!DSA/ 
-!Java\ Script/ 
+# Sab kuch ignore karo
+*
+
+# Ye folders aur inke andar ke contents ignore mat karo
+!Python/
+!Python/**
+!Java/
+!Java/**
+!Html/
+!Html/**
+!DSA/
+!DSA/**
+!Java Script/
+!Java Script/**
+
+# Gitignore file ko ignore mat karo
+!.gitignore
